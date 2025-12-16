@@ -1,0 +1,119 @@
+*{
+    font-size: 20px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+span{
+font-size: 30px;
+color: #f54242;
+font-family: 'Bitter', serif;
+text-decoration: underline;
+}
+
+label[for="search"]{
+font-family: 'Kablammo', cursive;
+font-size: 35px;
+position: relative;
+top: 5px;
+}
+
+#no2 span{
+    font-size: 21px;
+}
+header h1{
+font-size: 50px;
+font-family: 'Bagel Fat One', cursive;
+background-color: transparent;
+text-align: right;
+position: relative;
+top: 28px;
+width: 800px;
+}
+
+header{
+background-color: cadetblue;
+margin: 4px 0 50px 0;
+padding: 18px 0 0 0;
+}
+
+form{
+    position: relative;
+    bottom: 30px;
+    }
+
+
+#no1 h2{
+font-size: 35px;
+font-family: 'Geologica', sans-serif;
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+p, li{
+    font-weight: 530;
+}
+h2{
+font-size: 35px;
+text-decoration: underline;
+text-decoration-skip-ink: none;
+margin: 30px 0 15px 0;
+}
+#one{
+font-size: 45px;
+text-decoration: none;
+}
+
+em.not-italic {
+    font-style: normal;
+  }
+#no1{
+    margin: 10px;
+}
+
+#no2{
+    margin: 10px;
+} 
+
+#no3{
+    margin: 10px;
+}
+
+#no4{
+    margin: 10px;
+}
+
+#dif{
+   text-decoration: none;
+   font-weight: bold;
+   color: rgb(48, 42, 42);
+}
+
+h3{
+    font-size: 50px;
+    font-family: 'Ysabeau Infant', sans-serif;
+    text-align: right;
+    padding-right: 40px;
+    position: relative;
+    bottom: 92px;
+}
+ul{
+    margin: 40px;
+}
+
+ul li{
+    margin: 10px;
+}
+
+
+#last{
+    text-align: center;
+}
+  
+
+  
